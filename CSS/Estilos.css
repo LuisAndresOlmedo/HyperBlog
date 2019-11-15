@@ -2,5 +2,19 @@ body
 {
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
     color: blue;
+}
+#container
+{
+    width: 70%;
+    padding: 1en;
+    text-align: left;
+    border: turquoise 1px solid;
+    margin: auto 0;
+}
+#container h1
+{
+    font-size: 20px;
 }
