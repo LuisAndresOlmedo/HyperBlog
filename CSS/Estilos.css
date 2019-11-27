@@ -46,5 +46,15 @@ body
 #post
 {
     padding: 1em;
+<<<<<<< HEAD
     background: white;
+=======
+}
+#fooder
+{
+    color: white;
+    background: #777;
+    text-align: center;
+    padding: 0.5em;
+>>>>>>> fooder
 }
